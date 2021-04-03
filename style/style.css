@@ -10,7 +10,7 @@ html {
 body{
         
         background: linear-gradient(to top, rgba(255, 255, 255, 1), rgb(3, 17, 48), rgba(41, 0, 0, 0.815),
-        rgba(255,255,255,1)), url("images/bgmain1.JPG");
+        rgba(255,255,255,1)), url("../images/bgmain1.jpg");
         background-repeat: no-repeat;
         background-color: #000;
 }
