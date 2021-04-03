@@ -10,7 +10,7 @@ html {
 body{
         
         background: linear-gradient(to top, rgba(255, 255, 255, 1), rgb(3, 17, 48), rgba(41, 0, 0, 0.815),
-        rgba(255,255,255,1)), url("../images/bgmain1.JPG");
+        rgba(255,255,255,1)), url("images/bgmain1.JPG");
         background-repeat: no-repeat;
         background-color: #000;
 }
@@ -150,7 +150,7 @@ header.stayupthere{
         border-top-left-radius: 20px;
         border-top-right-radius: 20px;
         width: 100%;
-        background-image: url("../images/earth/bgmain.JPG");
+        background-image: url("images/earth/bgmain.JPG");
         background-size:cover;
         background-repeat: no-repeat;
         min-height: 400px;
@@ -165,7 +165,7 @@ header.stayupthere{
         border-bottom-left-radius: 20px;
         border-bottom-right-radius: 20px;
         width: 100%;
-        background-image: url("../images/earth/bgmain.JPG");
+        background-image: url("images/earth/bgmain.JPG");
         background-size:cover;
         background-repeat: no-repeat;
         min-height: 50px;
@@ -181,7 +181,7 @@ header.stayupthere{
         border-bottom-left-radius: 20px;
         border-bottom-right-radius: 20px;
         width: 100%;
-        background-image: url("./images/fire/IMG_3330.JPG");
+        background-image: url("images/fire/IMG_3330.JPG");
         background-size:cover;
         background-repeat: no-repeat;
         min-height: 50px;
@@ -197,7 +197,7 @@ header.stayupthere{
         border-bottom-left-radius: 20px;
         border-bottom-right-radius: 20px;
         width: 100%;
-        background-image: url("./images/water/IMG_4521.JPG");
+        background-image: url("images/water/IMG_4521.JPG");
         background-size:cover;
         background-repeat: no-repeat;
         min-height: 50px;
@@ -213,7 +213,7 @@ header.stayupthere{
         border-bottom-left-radius: 20px;
         border-bottom-right-radius: 20px;
         width: 100%;
-        background-image: url("./images/air/IMG_4143.JPG");
+        background-image: url("images/air/IMG_4143.JPG");
         background-size:cover;
         background-repeat: no-repeat;
         min-height: 50px;
@@ -267,7 +267,7 @@ header.stayupthere{
         border-top-left-radius: 20px;
         border-top-right-radius: 20px;
         width: 100%;
-        background-image: url("./images/fire/IMG_3306.JPG");
+        background-image: url("images/fire/IMG_3306.JPG");
         background-size:cover;
         background-repeat: no-repeat;
         min-height: 400px;
@@ -288,7 +288,7 @@ header.stayupthere{
         border-top-left-radius: 20px;
         border-top-right-radius: 20px;
         width: 100%;
-        background-image: url("./images/water/IMG_4095.JPG");
+        background-image: url("images/water/IMG_4095.JPG");
         background-size:cover;
         background-repeat: no-repeat;
         min-height: 400px;
@@ -326,7 +326,7 @@ header.stayupthere{
         border-top-left-radius: 20px;
         border-top-right-radius: 20px;
         width: 100%;
-        background-image: url("./images/air/IMG_4667.JPG");
+        background-image: url("images/air/IMG_4667.JPG");
         background-size:cover;
         background-repeat: no-repeat;
         min-height: 400px;
