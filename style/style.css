@@ -638,6 +638,14 @@ header.stayupthere{
         #page-wrap {
                 margin-right: auto;
                 margin-left: auto;
-                max-width: 600px;
+                max-width: 500px;
+
+        }
+        body{
+                
+                width: 100%;
+        }
+        header{
+                width: 500px;
         }
         }
