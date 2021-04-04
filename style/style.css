@@ -26,6 +26,7 @@ body{
 .content-flex{
         display: flex;
         flex-wrap: wrap;
+        
 }
 .divider{
         padding: 50px;
@@ -622,6 +623,7 @@ header.stayupthere{
         #content-earth h1{
                 font-size: 44pt;    
                 line-height: 44pt;
+               
         }
         #content-fire h1{
                 font-size: 44pt;    
@@ -647,5 +649,10 @@ header.stayupthere{
         }
         header{
                 width: 500px;
+        }
+        .content-flex{
+                display: flex;
+                flex-wrap: wrap;
+                flex-direction: row;
         }
         }
