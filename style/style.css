@@ -94,20 +94,24 @@ span {
       .red img{  
         height: 20px;
         width: 20px;
+        min-height: 20px;
 }
 
 .ice img{  
         height: 20px;
         width: 20px;
+        min-height: 20px;
 }
 
 .brown img{  
         height: 20px;
         width: 20px;
+        min-height: 20px;
 }
 .blue img{  
         height: 20px;
         width: 20px;
+        min-height: 20px;
 }
 header{
         top: 0;
