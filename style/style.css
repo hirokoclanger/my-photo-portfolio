@@ -637,22 +637,8 @@ header.stayupthere{
                 font-size: 44pt;    
                 line-height: 44pt;
         }
-        #page-wrap {
-                margin-right: auto;
-                margin-left: auto;
-                max-width: 500px;
-
-        }
-        body{
-                
-                width: 100%;
-        }
-        header{
-                width: 500px;
-        }
         .content-flex{
-                display: flex;
-                flex-wrap: wrap;
-                flex-direction: row;
+           
         }
+        
         }
