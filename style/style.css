@@ -76,7 +76,7 @@ span {
       }
 
 .logo{ 
-       margin-top: 10px;
+       margin-top: 20px;
        margin-left: 15px;
        display: inline;
        float: left;
@@ -680,29 +680,29 @@ header.stayupthere{
                 height: 150px;
         }
         .ice img{  
-                height: 40px;
-                width: 40px;
-                min-height: 40px;
+                height: 30px;
+                width: 30px;
+                min-height: 30px;
         }
         .brown img{  
-                height: 40px;
-                width: 40px;
-                min-height: 40px;
+                height: 30px;
+                width: 30px;
+                min-height: 30px;
         }
         .blue img{  
-                height: 40px;
-                width: 40px;
-                min-height: 40px;
+                height: 30px;
+                width: 30px;
+                min-height: 30px;
         }
         .red img{  
-                height: 40px;
-                width: 40px;
-                min-height: 40px;
+                height: 30px;
+                width: 30px;
+                min-height: 30px;
         }
         .logo img{ 
-                height: 40px;
+                height: 30px;
                 width: auto;
-                min-height: 40px;
+                min-height: 30px;
         }
 
         
@@ -712,31 +712,36 @@ header.stayupthere{
 and (min-device-width : 375px) 
 and (max-device-width : 667px) 
 and (orientation : portrait) { 
-
+        .social img{  
+                height: 30px;
+                width: 30px;
+                min-height: 30px;
+                margin-top: 15px;
+        }
         .ice img{  
-                height: 80px;
-                width: 80px;
-                min-height: 80px;
+                height: 60px;
+                width: 60px;
+                min-height: 60px;
         }
         .brown img{  
-                height: 80px;
-                width: 80px;
-                min-height: 80px;
+                height: 60px;
+                width: 60px;
+                min-height: 60px;
         }
         .blue img{  
-                height: 80px;
-                width: 80px;
-                min-height: 80px;
+                height: 60px;
+                width: 60px;
+                min-height: 60px;
         }
         .red img{  
-                height: 80px;
-                width: 80px;
-                min-height: 80px;
+                height: 60px;
+                width: 60px;
+                min-height: 60px;
         }
         .logo img{ 
-                height: 80px;
+                height: 60px;
                 width: auto;
-                min-height: 80px;
+                min-height: 60px;
         }
 
         span{
@@ -861,7 +866,8 @@ and (orientation : portrait) {
                 font-size: 12pt;
         }
         .letter-bold b{
-                font-size: 15pt
+                font-size: 20pt;
+                line-height: 44pt;
         }
         #content-feature-earth{
                 box-shadow: 0px 0px 9px #747474;
