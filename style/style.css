@@ -90,8 +90,7 @@ span {
         text-decoration: none;
         font-family:sans-serif;
       }
-    
-      .red img{  
+.red img{  
         height: 20px;
         width: 20px;
         min-height: 20px;
@@ -457,12 +456,39 @@ header.stayupthere{
        justify-content: center;
        align-items: center;
 }
+.main-letter-text img{
+        height: 75px;
+        width: auto;
+        min-height: 75px;
+        margin-right: 15px;
+        
+}
+.main-letter-text-fire img{
+        height: 75px;
+        width: auto;
+        min-height: 75px;
+        margin-right: 15px;
+        
+}
+.main-letter-text-water img{
+        height: 75px;
+        width: auto;
+        min-height: 75px;
+        margin-right: 15px;
+        
+}
+.main-letter-text-air img{
+        height: 75px;
+        width: auto;
+        min-height: 75px;
+        margin-right: 15px;
+        
+}
 
 .main-letter-text b{
         color: rgb(54, 54, 54);
         margin-right: 20px;
-        font-size: 56pt
-        
+        font-size: 56pt 
 }
 .main-letter-text-fire b{
         color: rgb(255, 255, 255);
@@ -653,6 +679,32 @@ header.stayupthere{
                 width: 150px;
                 height: 150px;
         }
+        .ice img{  
+                height: 40px;
+                width: 40px;
+                min-height: 40px;
+        }
+        .brown img{  
+                height: 40px;
+                width: 40px;
+                min-height: 40px;
+        }
+        .blue img{  
+                height: 40px;
+                width: 40px;
+                min-height: 40px;
+        }
+        .red img{  
+                height: 40px;
+                width: 40px;
+                min-height: 40px;
+        }
+        .logo img{ 
+                height: 40px;
+                width: auto;
+                min-height: 40px;
+        }
+
         
         }
 
@@ -660,6 +712,33 @@ header.stayupthere{
 and (min-device-width : 375px) 
 and (max-device-width : 667px) 
 and (orientation : portrait) { 
+
+        .ice img{  
+                height: 80px;
+                width: 80px;
+                min-height: 80px;
+        }
+        .brown img{  
+                height: 80px;
+                width: 80px;
+                min-height: 80px;
+        }
+        .blue img{  
+                height: 80px;
+                width: 80px;
+                min-height: 80px;
+        }
+        .red img{  
+                height: 80px;
+                width: 80px;
+                min-height: 80px;
+        }
+        .logo img{ 
+                height: 80px;
+                width: auto;
+                min-height: 80px;
+        }
+
         span{
                 font-size: 10pt;
         }
@@ -696,6 +775,22 @@ and (orientation : portrait) {
         }
         .content-left{
                 max-width: 100%;
+               
+        }
+        #content-one{
+                display:flex;
+                padding: 20px;
+                align-items: center;
+                justify-content: center;
+               flex-wrap: wrap;
+               width: 100%;
+        }
+        #content-one > div{
+                margin: 20px;
+                max-width: 400px;
+        }
+        #content-right{
+                max-width: 400px;
         }
         .content-details-2 > div{
                 margin: 20px;
@@ -716,19 +811,26 @@ and (orientation : portrait) {
         .main-letter-text b{
                 color: rgb(54, 54, 54);
                 margin-right: 20px;
-                font-size: 96pt
+                font-size: 56pt
+                
+        }
+        .main-letter-bold b{
+                color: rgb(54, 54, 54);
+                margin-right: 20px;
+                font-size: 11pt
                 
         }
         .main-letter-text-fire b{
                 color: rgb(255, 255, 255);
                 margin-right: 20px;
-                font-size: 96pt
+                font-size: 56pt
                 
         }
         .main-letter-bold-fire b{
                 color: rgb(228, 228, 228);
-                font-size: 12pt
+                font-size: 11pt
         }
+        
         
         .content-detail-head {
                 display: flex;
@@ -743,6 +845,20 @@ and (orientation : portrait) {
                 font-size: 80pt;
                 text-align: center;
         
+        }
+        .main-letter-text img{
+                height: 60px;
+                width: auto;
+                min-height: 60px;
+                margin-right: 15px;
+                
+        }
+        .text-gray{
+                
+                font-size: 12pt;
+        }
+        .text-white{
+                font-size: 12pt;
         }
         .letter-bold b{
                 font-size: 15pt
@@ -790,8 +906,12 @@ and (orientation : portrait) {
                 height: 800px;
         }
        
-       
-      
+        #eeb{ 
+                font-size: 96pt;
+        }
+        .content-flex{
+                margin-top: 80px;
+        }
        
        
 }
